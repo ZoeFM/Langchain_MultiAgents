@@ -1,1 +1,7 @@
-langchain\nlangchain-community\nopenai\npython-dotenv
+asyncio
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+serpapi
+yfinance
